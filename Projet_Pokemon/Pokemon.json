@@ -1,0 +1,19 @@
+{
+    "Pokemon":[
+        {
+        "nom":"Salameche",
+        "Type": "Feu"
+        },
+        {
+        "nom":"Carapuce",
+        "Type" : "Eau"
+        },
+        {
+        "nom":"Bulbizarre",
+        "Type" : "Terre"
+        },
+        {
+        "nom":"Ronflex",
+        "Type" : "Normal"
+        }]
+}
